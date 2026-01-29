@@ -6,11 +6,7 @@
 ***********************************************************************************
        Project: Long Term Care Hospitals Point Prevalence Survey     
 
-Programmer: Yusuf
-
-           Date: August 2018 
- 
-Modified: Dipen Patel
+Programmer: Dipen Patel
 
        Version:
 
@@ -1025,3 +1021,4 @@ proc export data=progress outfile="H:\NHSN\Antimicrobial Stewardship\Antibiotic 
 
 proc export data=progress2 outfile="H:\NHSN\Antimicrobial Stewardship\Antibiotic Use Survey Data\LTCF AU Survey\LTCFs PP Survey Reporting Tracker &sysdate..xlsx"
    dbms=excel replace; run;  */
+
