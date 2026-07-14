@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-14T11:02:00Z",
+  "_captured_run_id": "r_dc10054a813040808c6065f7a7e87f92",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Wrote redcap_current_quarter (4 rows, 31 columns).",
+    "Wrote redcap_all_quarter (5 rows, 31 columns).",
+    "PROC PRINT completed: 4 observations printed, 7 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

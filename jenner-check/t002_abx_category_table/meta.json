@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_abx_category_table",
+  "source_file": "Analysis Q3 2025.sas",
+  "source_blob_sha": "cf6115caa14b5a50a871bf3f144babf3a98d4b4d",
+  "source_commit": "8015b3f6f994f15b54524069126fb6c05a29c624",
+  "notes": "The abx2 antibiotic-category reference table, reproduced verbatim: CARDS read with dlm=',' dsd missover into CDI/Respiratory/SSTI/UTI columns, rendered by the styled PROC REPORT from the report cover page. Fully self-contained; no external data."
+}

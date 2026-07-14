@@ -1,0 +1,44 @@
+                                       combined_adm (median/min/max per molecule)
+
+  Obs     molecule  median  minimum  maximum
+    1  amx_adm1        0.1     0.08     0.12
+    2  amxcl_adm1     0.02     0.01     0.03
+    3  azit_adm1      0.05     0.04     0.06
+    4  ceftri_adm1    0.03     0.02     0.04
+    5  cephal_adm1    0.01        0     0.02
+    6  cip_adm1       0.04     0.03     0.05
+    7  clind_adm1        0        0     0.01
+    8  dap_adm1          0        0     0.01
+    9  dox_adm1       0.02     0.01     0.03
+   10  ert_adm1          0        0        0
+   11  flu_adm1       0.01        0     0.02
+   12  lev_adm1       0.03     0.02     0.04
+   13  mox_adm1          0        0     0.01
+   14  linezo_adm1       0        0     0.01
+   15  met_adm1       0.06     0.05     0.07
+   16  nitr_adm1      0.05     0.04     0.06
+   17  pipta_adm1        0        0     0.01
+   18  vanc_adm1      0.02     0.01     0.03
+   19  vancop_adm1       0        0     0.01
+   20  methsu_adm1    0.03     0.02     0.04
+
+                                        admfinal (per facility per quarter sums)
+
+  Obs   NAME  QUARTER           _NAME_  SUM
+    1  TN_ZA  2025-Q3  amoxicillin_adm    3
+    2  TN_ZA  2025-Q3  amoxiclav_adm      1
+    3  TN_ZA  2025-Q3  azithro_adm        1
+    4  TN_ZA  2025-Q3  cef_adm            1
+    5  TN_ZA  2025-Q3  cephalexin_adm     0
+    6  TN_ZA  2025-Q3  cipro_adm          1
+    7  TN_ZA  2025-Q3  clinda_adm         0
+    8  TN_ZA  2025-Q3  dapto_adm          0
+    9  TN_ZA  2025-Q3  doxy_adm           1
+   10  TN_ZA  2025-Q3  erta_adm           0
+   11  TN_ZA  2025-Q3  fluc_adm           0
+   12  TN_ZA  2025-Q3  levo_adm           1
+   13  TN_ZA  2025-Q3  moxi_adm           0
+   14  TN_ZA  2025-Q3  linezolid_adm      0
+   15  TN_ZA  2025-Q3  metro_adm          2
+
+... 45 more observations (showing 15 of 60)

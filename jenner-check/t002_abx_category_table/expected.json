@@ -1,0 +1,11 @@
+{
+  "_captured_at": "2026-07-14T11:02:00Z",
+  "_captured_run_id": "r_0cf9fc6c180f40e281d6c026748757e6",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "PROC REPORT output 8 observations with 4 variables."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
