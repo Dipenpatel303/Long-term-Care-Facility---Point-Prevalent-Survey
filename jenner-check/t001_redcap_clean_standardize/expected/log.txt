@@ -1,0 +1,25 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T020019Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA redcap
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote redcap (5 rows, 24 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA redcap_current_quarter redcap_all_quarter
+
+NOTE: Multi-output DATA step splits stream into: redcap_current_quarter redcap_all_quarter
+
+NOTE: Read 5 rows from redcap.
+NOTE: Wrote redcap_current_quarter (4 rows, 31 columns).
+NOTE: Wrote redcap_all_quarter (5 rows, 31 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=redcap_current_quarter
+
+NOTE: PROC PRINT completed: 4 observations printed, 7 variables

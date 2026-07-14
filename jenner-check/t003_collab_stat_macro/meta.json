@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_collab_stat_macro",
+  "source_file": "Analysis Q3 2025.sas",
+  "source_blob_sha": "810686152dd0e234a92aa0f12fa2f355afce2aaf",
+  "source_commit": "c2fab89b0c39405276f64b6911bea43ecd7979cd",
+  "notes": "The %collab_stat macro reproduced verbatim and called for the Admission type. Exercises PROC MEANS (median/min/max output), PROC TRANSPOSE, the _n_-based split into median/min/max sub-tables, recombination, and the CLASS name*quarter sum means. Synthetic redcap2 + redcap_all_quarter supply the column shape the macro reads."
+}

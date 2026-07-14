@@ -1,0 +1,11 @@
+                                             Antibiotics Commonly Used For:
+
+CDI                             Respiratory                     Skin and Soft Tissue Infection  UTI
+Metronidazole                   Amoxicillin                     Cephalexin                      Ceftriaxone                   
+Vancomycine (PO)                Amoxicillin/Clavulanic acid     Clindamycin                     Ciprofloxacin                 
+                                Azithromycin                    Daptomycin                      Nitrofurantoin                
+                                Ceftriaxone                     Doxycyclin                      Sulfamethoxazole/Trimethoprim 
+                                Levofloxacin                    Fluconazole                                                   
+                                Moxifloxacin                    Linezolid                                                     
+                                                                Vancomycin                                                    
+                                                                Sulfamethoxazole/Trimethoprim

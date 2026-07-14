@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-14T11:02:00Z",
+  "_captured_run_id": "r_b68bd01d605f4badad8f65d551b65e8c",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Output dataset stats1 has 1 observations and 60 variables.",
+    "Output dataset adm has 8 observations and 23 variables.",
+    "PROC PRINT completed: 20 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

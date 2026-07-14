@@ -1,0 +1,7 @@
+                                              Current quarter cleaned rows
+
+  Obs   name                        hospname  faclic  census  beds  sum_adm  perc_bedfilled
+    1  TN_ZA  Knollwood Manor                    168      88   106        5    0.8301886792
+    2  TN_ZB  The Heritage Center                100      94   100        2            0.94
+    3  TN_ZD  Agape Nursing & Rehabilitation     290      76    90        2    0.8444444444
+    4  TN_ZG  NHC Farragut                       363      70   106        5    0.6603773585
